@@ -1,3 +1,6 @@
+
+// Vídeo 1 da Série: https://youtu.be/4XZ7_d4Uqzg
+
 void setup()
 {
   //Define a porta do led como saida
