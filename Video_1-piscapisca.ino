@@ -20,4 +20,4 @@ void loop()
    
   //Aguarda intervalo de tempo em milissegundos
   delay(1000);
-}
+} 
