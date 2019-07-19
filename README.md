@@ -2,7 +2,7 @@
 
 Material para acompanhamento série 15 Vídeos do Kit Maker da FilipeFlop, códigos prontos:
 
-Víde Apresentação sobre o Projeto: https://youtu.be/W1qC087Ivtk
+Vídeo de apresentação do Projeto: https://youtu.be/W1qC087Ivtk
 
 Vídeo 1 da Série: https://youtu.be/4XZ7_d4Uqzg
 
