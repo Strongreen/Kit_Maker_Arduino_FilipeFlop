@@ -22,7 +22,7 @@ void acendeBrilho(int increamento){
     analogWrite(pinoLed, value);
     delay(30);
   } 
-}
+} 
  
 void apagaBrilho(int decreamento){
   // muda o brilho pelo loop for
