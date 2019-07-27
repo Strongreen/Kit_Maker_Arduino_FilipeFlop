@@ -1,6 +1,6 @@
 # Kit_Maker_Arduino_FilipeFlop
 
-Material para acompanhamento série 15 Vídeos do Kit Maker da FilipeFlop, códigos prontos:
+Material para acompanhamento da série de 15 Vídeos do Kit Maker da FilipeFlop, códigos prontos:
 
 Vídeo de apresentação do Projeto: https://youtu.be/W1qC087Ivtk
 
