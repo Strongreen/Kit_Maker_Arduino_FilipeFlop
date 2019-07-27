@@ -8,9 +8,9 @@ Vídeo 1 da Série: https://youtu.be/4XZ7_d4Uqzg
 
 Vídeo 2 da Série: https://youtu.be/Sb3Ya4eZwN4
 
-Vídeo 3 da Série: (em breve)
+Vídeo 3 da Série: https://youtu.be/kANLyI-jO_Q
 
-Vídeo 4 da Série: (em breve)
+Vídeo 4 da Série: https://youtu.be/NiEQee-kigo
 
 Vídeo 5 da Série: (em breve)
 
