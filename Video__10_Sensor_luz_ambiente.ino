@@ -13,10 +13,10 @@ void loop()
 {
   valorLuz = analogRead(pinoSensorLuz);        
   if(valorLuz < 750 ){                
-    digitalWrite(pinoLed,LOW);
+    digitalWrite(pinoLed,LOW);  // digitalWrite(pinoLed,HIGH);
   }
   else{                    
-    digitalWrite(pinoLed,HIGH);
+    digitalWrite(pinoLed,HIGH); // digitalWrite(pinoLed,LOW);
   }
   delay(10);                   
 }
